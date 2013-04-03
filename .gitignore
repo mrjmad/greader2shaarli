@@ -1,4 +1,5 @@
 *.py[cod]
+local_settings.py
 
 # C extensions
 *.so
@@ -8,6 +9,7 @@
 *.egg-info
 dist
 build
+.idea
 eggs
 parts
 bin
